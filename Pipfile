@@ -11,6 +11,8 @@ flask-migrate = "*"
 pyjwt = "*"
 flask-script = "*"
 flask-testing = "*"
+marshmallow = "*"
+flask-mongoengine = "*"
 
 [dev-packages]
 pylint = "*"
